@@ -1,0 +1,7 @@
+[project]
+name = "stats-prac"
+version = "0.1.0"
+description = "stats-prac will house notebooks on general stats learning (Bayesian + Frequentist)"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
